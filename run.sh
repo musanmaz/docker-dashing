@@ -1,5 +1,5 @@
 #!/bin/bash
-# Mehmet Şirin Usanmaz <musanmaz@snapbytes.com>
+# Mehmet Şirin Usanmaz <mehmetusanmaz@hotmail.com>
 function install_widgets() {
   WIDGETS=$@
   if [[ ! -z "$WIDGETS" ]]; then

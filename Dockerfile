@@ -1,6 +1,6 @@
 FROM ruby:2.3.1
 
-MAINTAINER Mehmet Şirin Usanmaz <musanmaz@snapbytes.com>
+MAINTAINER Mehmet Şirin Usanmaz <mehmetusanmaz@hotmail.com>
 RUN apt-get update && \
     apt-get -y install nodejs && \
     apt-get -y clean
