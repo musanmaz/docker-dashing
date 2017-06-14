@@ -1,5 +1,5 @@
 # Dashing
-A [Docker](http://docker.io/) Container for [Dashing] (http://dashing.io/)
+A [Docker](http://docker.io/) Container for [Dashing](http://dashing.io/)
 
 
 
